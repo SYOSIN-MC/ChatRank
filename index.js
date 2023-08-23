@@ -26,7 +26,7 @@ events.packetSend(MinecraftPacketIds.Text).on((pkt, ni) => {
         if (message.length == 0) {
             message += `[${nameToSection(config.rankColorList[config.defaultRank])}${config.defaultRank}§r]`
         }
-        message += ` ${player.getNameTag()} > ${pkt.message}`
+        message += ` <${player.getNameTag()}> ${pkt.message}`
         const receiver = ni.getActor()
         if (receiver == null) return;
         receiver.sendMessage(message)
