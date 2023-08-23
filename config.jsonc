@@ -1,0 +1,10 @@
+{
+	"ranklist":[
+		"Owner",
+		"OP",
+		"Developer",
+		"VIP",
+		"Member"
+	]
+	//Developerはおかかが追加したかったやつなので消しても可
+}
