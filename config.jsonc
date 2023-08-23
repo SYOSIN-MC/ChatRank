@@ -7,5 +7,6 @@
 		"Member"
 	],
 	//Developerはおかかが追加したかったやつなので消しても可
-	"defaultRank": "Member"
+	"defaultRank": "Member",
+	"roleHeadTag":"cr:"
 }
