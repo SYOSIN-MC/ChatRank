@@ -1,10 +1,11 @@
 {
-	"ranklist":[
+	"rankList": [
 		"Owner",
 		"OP",
 		"Developer",
 		"VIP",
 		"Member"
-	]
+	],
 	//Developerはおかかが追加したかったやつなので消しても可
+	"defaultRank": "Member"
 }
