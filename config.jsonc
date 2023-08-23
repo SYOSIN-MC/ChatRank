@@ -8,5 +8,12 @@
 	],
 	//Developerはおかかが追加したかったやつなので消しても可
 	"defaultRank": "Member",
-	"roleHeadTag":"cr:"
+	"roleHeadTag":"cr:",
+	"colorlist": {
+		"Owner":"",
+		"OP":"",
+		"Developer":"",
+		"VIP":"",
+		"Member":""
+	}
 }
