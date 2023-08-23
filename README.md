@@ -21,6 +21,7 @@ player-roleと関連付けてロールを管理する。
 [
   "Owner",
   "OP",
+  "Developer",
   "VIP",
   "Member"
 ]
