@@ -10,6 +10,16 @@
 	"defaultRank": "Member",
 	"roleHeadTag":"cr:",
 	"colorlist": {
+		"blue": "§9",
+		"red": "§c",
+		"green": "§a",
+		"yellow": "§e",
+		"gold": "§6",
+		"light_purple": "§d",
+		"dark_purple": "§5"
+	},
+	//rankcolorlistは使うか不明
+	"rankcolorlist": {
 		"Owner":"",
 		"OP":"",
 		"Developer":"",
